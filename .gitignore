@@ -1,0 +1,10 @@
+config.json
+user_signup.json
+orders.json
+venv/
+__pycache__/
+*.pyc
+*.log
+rentalaibot.com.tar.gz
+rentalaibot.com.zip
+.user.ini

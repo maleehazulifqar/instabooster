@@ -1,0 +1,14 @@
+{
+  "smm_api_url": "https://example.com/api/v2",
+  "smm_api_key": "YOUR_SMM_API_KEY",
+
+  "volzix_base_url": "https://volzix.com",
+  "volzix_mid": "YOUR_VOLZIX_MID",
+  "volzix_api_key": "YOUR_VOLZIX_API_KEY",
+
+  "currency": "PKR",
+  "return_url": "http://YOUR_SERVER_IP:1111/payment/return",
+
+  "payment_check_after_minutes": 10,
+  "cron_secret": "CHANGE_THIS_SECRET"
+}

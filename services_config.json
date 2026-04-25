@@ -1,0 +1,43 @@
+[
+  {
+    "key": "followers",
+    "title": "Instagram Followers",
+    "description": "Premium Instagram followers service. This is a paid service.",
+    "service_id": 3085,
+    "free_quantity": 0,
+    "min_quantity": 10,
+    "max_quantity": 10000,
+    "price_per_100": 100,
+    "icon": "👥",
+    "active": true,
+    "free_enabled": false
+  },
+  {
+    "key": "likes",
+    "title": "Instagram Likes",
+    "description": "Premium Instagram likes service. This is a paid service.",
+    "service_id": 2517,
+    "free_quantity": 0,
+    "min_quantity": 100,
+    "max_quantity": 10000,
+    "price_per_100": 30,
+    "icon": "❤️",
+    "active": true,
+    "free_enabled": false
+  },
+  {
+    "key": "views",
+    "title": "Instagram Views",
+    "description": "Free Instagram views available up to 1000 views. One link can be used once per hour.",
+    "service_id": 2511,
+    "free_quantity": 1000,
+    "min_quantity": 100,
+    "max_quantity": 100000,
+    "price_per_100": 10,
+    "icon": "👁️",
+    "active": true,
+    "free_enabled": true,
+    "free_max_quantity": 1000,
+    "free_cooldown_minutes": 60
+  }
+]
