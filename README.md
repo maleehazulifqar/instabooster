@@ -9,13 +9,12 @@ It allows users to sign up, log in, select Instagram services, place free or pai
 **FAM Developers**
 
 ## Developers
-
+- Maleeha Zulfiqar
 - Fatima Qureshi
-- Maleeha Zilfiqar
 - Aima Aqeel
 
 ## Contact
-
+- maleehazulfiqar@gmail.com
 - fema.qureshi@gmail.com
 - muhammadbaig720@gmail.com
 
